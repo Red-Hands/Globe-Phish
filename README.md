@@ -2,11 +2,11 @@
 <b>Advanced lifetime phishing script  with 10 social media phishing pages</b>
 <p>
 STEPS TO USE THIS:
-        1)DOWNLOAD THIS FILES AND HOST IT
-        2)AND NOW GO TO THE HOME PAGE AND ENTER 
+        1)DOWNLOAD THIS FILES AND HOST IT<br>
+        2)AND NOW GO TO THE HOME PAGE AND ENTER <br>
         
- USERNAME : globephish
- PASSWORD : globephish
+ USERNAME : globephish<br>
+ PASSWORD : globephish<br>
 
         3)GO TO LINKS TAB AND SELECT THE LINK YOU WANT AND SEND THAT TO VICTIM, ONCE THE VICTIM LOGS IN YOU WILL GET THE PASSWORD IN VICTIMS TAB.</p>
 <h3>THIS IS THE LOGIN PANEL OF THE ATTACKER</h3>
