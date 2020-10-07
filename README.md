@@ -16,10 +16,11 @@ STEPS TO USE THIS:<br><br>
 <img src =/img/2.png>
 <h3>HERE YOU CAN FIND PHISHING LINKS  TO SEND TO VICIM TOTALLY 10 PAGES</h3>
 <br>
-<img src =/img/3.png>
-<img src =/img/4.png>
-<br>
+<img src =/img/3.png><br>
+<img src =/img/4.png><br>
 <h3>WHEN VICTIMS LOGINS ANY OF YOUR PHISHING SITES YOU WILL GET THEIR USERNAMES AND PASSWORDS HERE </h3>
+<br>
+<img src =/img/6.png>
 <br>
 <h3>HERE YOU CAN CHANGE WHERE THE VICTIM SHOULD BE REDIRECTED AFTER LOGGING IN TO YOUR PHISHING PAGES</h3>
 <img src =/img/5.png>
