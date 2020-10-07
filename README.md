@@ -1,7 +1,7 @@
 # Globe-Phish
 <b>Advanced lifetime phishing script  with 10 social media phishing pages</b>
 <p>
-STEPS TO USE THIS:
+STEPS TO USE THIS:<br>
         1)DOWNLOAD THIS FILES AND HOST IT<br>
         2)AND NOW GO TO THE HOME PAGE AND ENTER <br>
         
